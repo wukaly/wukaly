@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Assets/banner.png" alt="Banner" width="100%" />
+</p>
+
 <h1 align="left">Hi, I'm Luke!</h1>
 
 <p align="left">
