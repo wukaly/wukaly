@@ -1,7 +1,7 @@
 <h1 align="left">Hi, I'm Wukaly!</h1>
 
 <p align="left">
-  <a href="https://discord.com/users/wukaly">
+  <a href="https://discord.com/users/388108384525615104">
     <img src="https://img.shields.io/badge/Discord-%40wukaly-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" />
   </a>
   <a href="https://www.youtube.com/@wukaly">
