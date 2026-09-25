@@ -1,4 +1,4 @@
-<h1 align="left">Hi, I'm Wukaly!</h1>
+<h1 align="left">Hi, I'm Luke!</h1>
 
 <p align="left">
   <a href="https://discord.com/users/388108384525615104">
